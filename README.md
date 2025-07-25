@@ -1,16 +1,17 @@
 # Regional-Sales-Analysis
 ## Project Background
-Company X, established in 2017, is a manufacture company that sells
-Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
+Company X, established in 2017, is a manufacture company that sells and ship furnitures to enterprises and individual business.
+
+The company has significantly amount of data on its sales,product offerings, patching regions, and customer information. This project thoroughly analyzes and synthesizes the company's data to provide critical insights and strategic planning over its commercial performances.
 
 Insights and recommendations are provided on the following key areas:
 
-- **Category 1:** 
-- **Category 2:** 
-- **Category 3:** 
-- **Category 4:** 
+- **Sales Trend Analysis:** Evaluate historical sales patterns across regions over years, focusing on Aggregated Monthly Sales, Average Order Value(AOV), and Profit Margin. 
+- **Product Level Performance:** An anlysis on Company X's various product lines, understanding their impact on profits and budgets.
+- **Risk Assessment:** An assessment over fluctuation in annual revenues to mitigate risks in future planning.
+- **Regional Comparison:** An evaluation of revenue and order counts by regions.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [link].
+The python notebook used to inspect and perform exploratory data analysis can be found here [link].
 
 Targed SQL queries regarding various business questions can be found here [link].
 
