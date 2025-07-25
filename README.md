@@ -1,11 +1,6 @@
 # Regional-Sales-Analysis
-Assess the performance of a company sales in 2021-2025, identify the trends in AOV, explore correlations in key revenue metrics, and provide insights in strategic marketing.
-
-
-
-
-
-# Project Background
+## Project Background
+Company X, established in 2017, is a manufacture company that sells
 Backround about the company, including the industry, active years, business model, and key business metrics. Explain this from the POV of a data analyst who is working at the company.
 
 Insights and recommendations are provided on the following key areas:
