@@ -20,10 +20,11 @@ An interactive Tableau dashboard used to report and explore sales trends can be 
 ## Data Structure & Initial Checks
 
 The company's main database structure as seen below consists of six tables: Sales Order, Customers, Products, Regions, 2024 Budgets, State Regions, with a total row count of 65,382 records. A description of each table is as follows:
-- **Table 2:**
-- **Table 3:**
-- **Table 4:**
-- **Table 5:**
+- **Sales Order:** Order records from 2021 to 2025, 64,105 orders in total. Each order contains a unique order number, follow by date the order is placed, customer information, delivery index, and order price. This table contains several primary keys from customers, products, and regions tables, so it serves as primary source when merging tables. Several columns such as warehouse code, currency code, and delivery region index have been removed since they contribute trivially to the analysis.
+- **Customers:** A list of 175 customers who ordered in the past four years.
+- **Regions:** A reference of all the cities available for delivery, with detailed information regarding geographical location and population census. Irrelevant columns from this table has been removed during data cleaning.
+- **State Regions:** Categories all the states into four regions: south, west, northeast, midwest.
+- **Products:** Displays 30 products for sale.
 
 Entity Relationship Diagram:
 <img width="6000" height="3375" alt="Entity Relation Diagram" src="https://github.com/user-attachments/assets/cab74d39-0468-4a20-a77e-e4cb7b641a93" />
