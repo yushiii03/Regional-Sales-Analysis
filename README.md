@@ -11,7 +11,7 @@ Insights and recommendations are provided on the following key areas:
 - **Risk Assessment:** An assessment over fluctuation in annual revenues to mitigate risks in future planning.
 - **Regional Comparison:** An evaluation of revenue and order counts by regions.
 
-The python notebook used to inspect and perform exploratory data analysis can be found here [link].
+The python notebook used to inspect and perform exploratory data analysis can be found here [Regional_Sales_Analysis.ipynb].
 
 Targed SQL queries regarding various business questions can be found here [link].
 
