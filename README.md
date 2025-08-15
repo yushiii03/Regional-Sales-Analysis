@@ -13,7 +13,7 @@ Insights and recommendations are provided on the following key areas:
 
 The python notebook used to inspect and perform exploratory data analysis can be found [here](https://github.com/yushiii03/Regional-Sales-Analysis/blob/736142c758c04de091af8fe58b520c201b113a91/Regional_Sales_Analysis.ipynb).
 
-An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://github.com/yushiii03/Regional-Sales-Analysis/blob/101e0e07743707d1f3000cf40e40c0593da14940/Regional%20Sales%20Analysis.twbx).
+An interactive Tableau dashboard used to report and explore sales trends can be found [here](https://public.tableau.com/shared/69K9WWHFN?:display_count=n&:origin=viz_share_link).
 
 
 
@@ -38,6 +38,14 @@ Entity Relationship Diagram:
 Explain the overarching findings, trends, and themes in 2-3 sentences here. This section should address the question: "If a stakeholder were to take away 3 main insights from your project, what are the most important things they should know?" You can put yourself in the shoes of a specific stakeholder - for example, a marketing manager or finance director - to think creatively about this section.
 
 [Visualization, including a graph of overall trends or snapshot of a dashboard]
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/756bb992-3551-433c-8233-7072b3f58eac" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/efcdbf7a-256b-4e2f-af6c-89d6af029d28" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b2785dff-d752-4bad-8571-63e3ea941969" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/3dfd0f07-2661-45fb-9e2e-4c98b7823033" />
+
+
+
+
 
 
 
